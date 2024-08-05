@@ -1,1 +1,1 @@
-This contains assignments created for Networking course
+This contains assignments created for Networking course.
